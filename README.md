@@ -70,7 +70,7 @@ Caso tenha sugestões, encontre bugs ou queira colaborar, abra uma _issue_ ou en
 ## Contato  
 
 **Bruno Porto Baptista**  
-📧 [brunobaptista@gmail.com](mailto:brunobaptista@gmail.com)  
+📧 [brunoporto8124@gmail.com](brunoporto8124@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/brunodev1/)  
 
 ---
