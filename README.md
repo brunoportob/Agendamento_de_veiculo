@@ -1,86 +1,78 @@
-# 🚗 **Aplicativo de Agendamento de Veículos**  
-### _Gestão de reservas eficiente e prática com Power Apps_
+# Aplicativo de Agendamento de Veículos  
+**_Gerencie reservas de frotas de forma eficiente com Microsoft Power Apps_**
 
-Bem-vindo ao repositório do **Aplicativo de Agendamento de Veículos**, uma solução desenvolvida em **Microsoft Power Apps** para facilitar o gerenciamento de frotas e reservas de veículos. Com uma interface intuitiva e funcionalidades personalizadas, o aplicativo é ideal para empresas ou equipes que precisam organizar e otimizar o uso de seus veículos.
-
----
-
-## 🎯 **Funcionalidades Principais**
-
-- **📅 Reserva de Veículos:**  
-  Agende facilmente um veículo disponível selecionando data e horário desejados.
-
-- **📊 Calendário Interativo:**  
-  Visualize as reservas existentes e horários disponíveis em tempo real.
-
-- **🚘 Gestão de Frota:**  
-  Adicione, edite ou remova veículos cadastrados, incluindo detalhes como modelo, placa e capacidade.
-
-- **🔄 Controle de Conflitos:**  
-  O sistema evita sobreposições de reservas, garantindo organização e transparência.
-
-- **🔔 Notificações Automatizadas:**  
-  Receba alertas para confirmações, lembretes de uso e devolução, além de notificações sobre reservas futuras.
-
-- **📜 Histórico de Uso:**  
-  Acompanhe todas as reservas realizadas, garantindo transparência no gerenciamento.
-
-- **📈 Relatórios Personalizados:**  
-  Gere relatórios de uso detalhados para análise e tomada de decisão.
-
-- **✅ Aprovação de Solicitações:**  
-  Supervisores podem revisar e aprovar agendamentos conforme as políticas da organização.
+Este repositório apresenta o **Aplicativo de Agendamento de Veículos**, uma solução desenvolvida para otimizar o gerenciamento de reservas de frotas. Projetado com **Microsoft Power Apps**, o aplicativo oferece uma experiência intuitiva e flexível para empresas ou equipes que buscam eficiência e organização no uso de seus veículos.
 
 ---
 
-## 💡 **Benefícios**
+## Funcionalidades Principais  
 
-- **✔️ Organização:**  
-  Sistema centralizado para evitar conflitos ou confusões em reservas.
+- **Reserva de Veículos:**  
+  Permite selecionar veículos disponíveis e definir horários de uso com facilidade.  
 
-- **⏱️ Eficiência:**  
-  Gerenciamento rápido e eficaz, otimizando o uso dos veículos.
+- **Calendário Interativo:**  
+  Exibe os agendamentos disponíveis e ocupados em tempo real.  
 
-- **💰 Economia:**  
-  Análise do uso da frota para identificar oportunidades de redução de custos.
+- **Gestão de Frota:**  
+  Administração completa da frota, com cadastro, edição e exclusão de veículos.  
 
-- **📱 Acessibilidade:**  
-  Compatível com dispositivos móveis e desktops, acessível a qualquer momento.
+- **Controle de Conflitos:**  
+  Impede reservas duplicadas, assegurando transparência e organização.  
 
----
+- **Notificações Automatizadas:**  
+  Envio de alertas sobre confirmações, lembretes de devolução e notificações futuras.  
 
-## 🛠️ **Tecnologias Utilizadas**
-- **[Microsoft Power Apps](https://powerapps.microsoft.com/):**  
-  Criação de aplicativos com uma interface de baixo código para personalizar a solução de acordo com as necessidades do cliente.  
+- **Histórico de Uso:**  
+  Registro detalhado das reservas realizadas para consulta e auditoria.  
 
-- **[Microsoft SharePoint](https://www.microsoft.com/microsoft-365/sharepoint/collaboration):**  
-  Banco de dados para armazenar informações sobre reservas e frotas.
+- **Relatórios Personalizados:**  
+  Gere insights sobre o uso da frota para tomada de decisões estratégicas.  
 
-- **[Power Automate](https://powerautomate.microsoft.com/):**  
-  Automação de notificações e fluxos de aprovação.
-
----
-
-## 🚀 **Como Utilizar**
-1. **Clone o repositório ou baixe o arquivo do aplicativo.**  
-2. Importe o arquivo para o **Microsoft Power Apps Studio**.  
-3. Configure as conexões com as tabelas do **SharePoint** e outros serviços usados.  
-4. Personalize as configurações de acordo com as necessidades da sua equipe ou organização.  
-5. Publique o aplicativo e comece a gerenciar sua frota de forma eficiente!
+- **Fluxo de Aprovação:**  
+  Possibilidade de validação de reservas por supervisores, conforme as regras da organização.  
 
 ---
 
-## 🤝 **Contribuindo**
-Contribuições são bem-vindas!  
-Se você tiver ideias, sugestões ou encontrar bugs, abra uma _issue_ ou envie um _pull request_.
+## Benefícios  
+
+- **Organização:** Sistema centralizado para evitar conflitos de reservas.  
+- **Eficiência:** Processos otimizados para uma experiência ágil e sem complicações.  
+- **Economia:** Controle de uso da frota para identificar e reduzir desperdícios.  
+- **Acessibilidade:** Compatível com dispositivos móveis e desktops, garantindo acesso fácil a qualquer momento.  
 
 ---
 
-## 📞 **Contato**
-Caso tenha dúvidas ou precise de suporte, entre em contato:  
+## Tecnologias Utilizadas  
+
+- **[Microsoft Power Apps](https://powerapps.microsoft.com/):** Interface de desenvolvimento de baixo código para personalização da solução.  
+- **[Microsoft SharePoint](https://www.microsoft.com/microsoft-365/sharepoint/collaboration):** Armazenamento e gerenciamento de dados.  
+- **[Power Automate](https://powerautomate.microsoft.com/):** Automação de processos como notificações e aprovações.  
+
+---
+
+## Como Utilizar  
+
+1. Clone o repositório ou baixe o arquivo do aplicativo.  
+2. Importe o arquivo no **Microsoft Power Apps Studio**.  
+3. Configure as conexões com as tabelas do **SharePoint** e outros serviços necessários.  
+4. Personalize o aplicativo conforme as demandas da sua organização.  
+5. Publique o aplicativo e comece a utilizá-lo para gerenciar sua frota.  
+
+---
+
+## Contribuições  
+
+Contribuições são muito bem-vindas!  
+Caso tenha sugestões, encontre bugs ou queira colaborar, abra uma _issue_ ou envie um _pull request_.  
+
+---
+
+## Contato  
+
 **Bruno Porto Baptista**  
-[Email](mailto:brunobaptista@gmail.com) | [LinkedIn](https://www.linkedin.com/in/brunodev1/)
+📧 [brunobaptista@gmail.com](mailto:brunobaptista@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/brunodev1/)  
 
 ---
 
-> **Nota:** Este aplicativo é um projeto em desenvolvimento, e novas funcionalidades podem ser adicionadas. Sinta-se à vontade para contribuir ou adaptar o projeto às suas necessidades.
+> **Nota:** Este projeto está em constante evolução. Novas funcionalidades e melhorias podem ser adicionadas conforme necessário. Adapte-o à sua realidade ou contribua para torná-lo ainda melhor!
