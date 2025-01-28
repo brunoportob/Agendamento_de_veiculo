@@ -71,7 +71,7 @@ Caso tenha sugestões, encontre bugs ou queira colaborar, abra uma _issue_ ou en
 
 **Bruno Porto Baptista**  
 📧 [brunoporto8124@gmail.com](brunoporto8124@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/brunodev1/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/brunoportob/)  
 
 ---
 
